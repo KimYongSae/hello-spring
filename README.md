@@ -1,2 +1,2 @@
 # inflearn_spring
-Test
+Test2
